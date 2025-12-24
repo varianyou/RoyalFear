@@ -63,7 +63,8 @@ internal class Program
         }
     }
     public static void bublesort()
-    { 
-    
+    {
+        int startpoint = 0;
+        int finishpoint = 0;
     }
 }
